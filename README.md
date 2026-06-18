@@ -4,7 +4,7 @@
 To create a reusable AI prompt system that generates high-converting UGC-style ad content.
 
 ### Business Chosen
-Local Haur Saloon Ayodhya.
+Local Hair Salon Ayodhya.
 
 ### What This Repository Contains
 - Structured AI prompts for UGC ads
